@@ -1,0 +1,2 @@
+# MavneSimpleScreenSh
+Maven simple screenshot
