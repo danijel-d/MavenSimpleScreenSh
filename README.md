@@ -1,2 +1,2 @@
 # MavneSimpleScreenSh
-Maven simple screenshot
+Maven simple screenshot with Selenium
