@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-13T16:48:16 CEST" name="Default suite" finished-at="2020-04-13T16:48:34 CEST" duration-ms="17440">
+    <groups>
+    </groups>
+    <test started-at="2020-04-13T16:48:16 CEST" name="Default test" finished-at="2020-04-13T16:48:34 CEST" duration-ms="17440">
+      <class name="hover.ScreenTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:hover.ScreenTest@6a2b953e]" started-at="2020-04-13T16:48:16 CEST" name="setUp" finished-at="2020-04-13T16:48:30 CEST" duration-ms="14197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="goHome()[pri:0, instance:hover.ScreenTest@6a2b953e]" started-at="2020-04-13T16:48:30 CEST" name="goHome" finished-at="2020-04-13T16:48:32 CEST" duration-ms="1564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goHome -->
+        <test-method signature="testScreenSh()[pri:0, instance:hover.ScreenTest@6a2b953e]" started-at="2020-04-13T16:48:32 CEST" name="testScreenSh" finished-at="2020-04-13T16:48:33 CEST" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScreenSh -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:hover.ScreenTest@6a2b953e]" started-at="2020-04-13T16:48:33 CEST" name="tearDown" finished-at="2020-04-13T16:48:34 CEST" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- hover.ScreenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
